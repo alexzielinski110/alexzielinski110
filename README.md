@@ -18,6 +18,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;10+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/alexzielinski110/alexzielinski110/blob/main/developer.gif?raw=true" width="50%" height="auto" />
+
 ### 🧑 Contact Information 
 *   <p><b>Skype:</b> live:.cid.ddbc46748a4a13dd</p>
 *   <p><b>Phone:</b> +48 (22) 208 4402</p>
