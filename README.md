@@ -3,7 +3,7 @@
 </h3>
 
 <h5 align='center'>
-  FullStack Engineer
+  Full Stack Engineer
 </h5>
 
 <p align="center">
